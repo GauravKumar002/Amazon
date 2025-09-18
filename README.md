@@ -1,2 +1,2 @@
-# Amazon
+![Image Alt Text](http://127.0.0.1:5500/index.html)# Amazon
 Amazon-clone
